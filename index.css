@@ -35,7 +35,10 @@
 /* BAGIAN SATU */
 
 #bagian-satu {
-  background-color: tomato;
+  background-image: url(img/bg2.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
 }
 
 #bagian-satu h1 {
@@ -48,6 +51,7 @@
 #bagian-satu img {
   border-radius: 50%;
   height: 250px;
+  margin-bottom: 100px;
 }
 
 /* AKHIR BAGIAN SATU */
@@ -139,7 +143,7 @@
 /* BAGIAN LIMA */
 
 #bagian-lima {
-  background-color: tomato;
+  background-color: orangered;
 }
 
 #bagian-lima h1 {
@@ -195,7 +199,9 @@
   /* BAGIAN SATU */
 
   #bagian-satu {
-    background-color: tomato;
+    background-image: url(img/bg2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
   }
 
   #bagian-satu h1 {
@@ -206,6 +212,7 @@
   }
 
   #bagian-satu img {
+    margin-bottom: 100px;
     border-radius: 50%;
     height: 250px;
   }
@@ -299,7 +306,7 @@
   /* BAGIAN LIMA */
 
   #bagian-lima {
-    background-color: tomato;
+    background-color: orangered;
   }
 
   #bagian-lima h1 {
