@@ -1,0 +1,26 @@
+.navbar-brand {
+  font-family: 'Padauk', sans-serif;
+  font-size: 30px;
+}
+
+.nav-link {
+  font-family: 'Padauk', sans-serif;
+  font-size: 18px;
+  color: black !important;
+}
+
+#bagian-satu {
+  background-color: forestgreen;
+}
+
+#bagian-satu h1 {
+  font-family: 'Padauk', sans-serif;
+  font-style: 25px;
+  color: white;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+}
+
+#bagian-satu img {
+  border-radius: 50%;
+  height: 250px;
+}
