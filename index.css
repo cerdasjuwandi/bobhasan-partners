@@ -35,15 +35,23 @@
 /* BAGIAN SATU */
 
 #bagian-satu {
-  background-image: url(img/bg2.jpg);
+  background-image: url(img/bagian-satu.jpg);
   background-attachment: fixed;
-  background-size: cover;
+  background-size: auto;
   background-position: center;
 }
 
 #bagian-satu h1 {
   font-family: 'Padauk', sans-serif;
   font-size: 35px;
+  color: white;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+}
+
+#bagian-satu p {
+  text-transform: capitalize;
+  font-family: 'Padauk', sans-serif;
+  font-size: 15px;
   color: white;
   text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
 }
@@ -81,6 +89,13 @@
   text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
 }
 
+#bagian-dua img {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  height: 190px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 1);
+}
+
 /* AKHIR BAGIAN DUA */
 
 /* ========================= */
@@ -101,11 +116,19 @@
 }
 
 #bagian-tiga p {
+  text-align: justify;
   text-transform: capitalize;
   font-family: 'Padauk', sans-serif;
   font-size: 15px;
   color: white;
   text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+}
+
+#bagian-tiga img {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  height: 100px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
 }
 
 /* AKHIR BAGIAN TIGA */
@@ -199,7 +222,7 @@
   /* BAGIAN SATU */
 
   #bagian-satu {
-    background-image: url(img/bg2.jpg);
+    background-image: url(img/bagian-satu.jpg);
     background-attachment: fixed;
     background-size: cover;
   }
@@ -207,6 +230,16 @@
   #bagian-satu h1 {
     font-family: 'Padauk', sans-serif;
     font-size: 60px;
+    color: white;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  }
+
+  #bagian-satu p {
+    margin-bottom: 50px;
+    text-transform: capitalize;
+    font-family: 'Padauk', sans-serif;
+    font-weight: 100;
+    font-size: 23px;
     color: white;
     text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
   }
@@ -225,7 +258,7 @@
   /* BAGIAN DUA */
 
   #bagian-dua {
-    background-color: tomato;
+    background-color: orangered;
   }
 
   #bagian-dua h1 {
@@ -237,11 +270,18 @@
   }
 
   #bagian-dua p {
+    text-align: justify;
     text-transform: capitalize;
     font-family: 'Padauk', sans-serif;
     font-size: 21px;
     color: white;
     text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  }
+
+  #bagian-dua img {
+    margin-top: 10px;
+    height: 300px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 1);
   }
 
   /* AKHIR BAGIAN DUA */
@@ -252,7 +292,7 @@
   /* BAGIAN TIGA */
 
   #bagian-tiga {
-    background-color: tomato;
+    background-color: orangered;
   }
 
   #bagian-tiga h1 {
@@ -264,11 +304,19 @@
   }
 
   #bagian-tiga p {
+    text-align: justify;
     text-transform: capitalize;
     font-family: 'Padauk', sans-serif;
     font-size: 21px;
     color: white;
     text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  }
+
+  #bagian-tiga img {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    height: 350px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
   }
 
   /* AKHIR BAGIAN TIGA */
@@ -279,7 +327,7 @@
   /* BAGIAN EMPAT */
 
   #bagian-empat {
-    background-color: tomato;
+    background-color: orangered;
   }
 
   #bagian-empat h1 {
