@@ -1,14 +1,29 @@
 /* BAGIAN-NAVBAR */
 
+.navbar {
+  background-image: url(img/navbar.jpg);
+  background-size: cover;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+}
+
 .navbar-brand {
   font-family: 'Padauk', sans-serif;
   font-size: 30px;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  color: white !important;
 }
 
 .nav-link {
   font-family: 'Padauk', sans-serif;
   font-size: 18px;
-  color: black !important;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  color: white !important;
+}
+
+.container-fluid img {
+  border-radius: 50%;
+  height: 70px;
+  margin-right: 10px;
 }
 
 /* AKHIR BAGIAN NAVBAR */
