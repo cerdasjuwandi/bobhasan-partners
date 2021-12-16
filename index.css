@@ -15,7 +15,7 @@
 
 #bagian-satu h1 {
   font-family: 'Padauk', sans-serif;
-  font-style: 25px;
+  font-size: 40px;
   color: white;
   text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
 }
@@ -23,4 +23,24 @@
 #bagian-satu img {
   border-radius: 50%;
   height: 250px;
+}
+
+#bagian-dua {
+  background-color: forestgreen;
+}
+
+#bagian-dua h1 {
+  font-family: 'Padauk', sans-serif;
+  font-size: 40px;
+  color: white;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  margin-top: 100px;
+}
+
+#bagian-dua p {
+  text-transform: capitalize;
+  font-family: 'Padauk', sans-serif;
+  font-size: 21px;
+  color: white;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
 }
