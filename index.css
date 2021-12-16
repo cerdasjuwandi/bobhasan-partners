@@ -8,6 +8,7 @@
 
 .navbar-brand {
   font-family: 'Padauk', sans-serif;
+  margin-left: -3px;
   font-size: 25px;
   text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
   color: white !important;
@@ -22,7 +23,7 @@
 
 .container-fluid img {
   border-radius: 50%;
-  height: 40px;
+  height: 35px;
   margin-right: 10px;
 }
 
