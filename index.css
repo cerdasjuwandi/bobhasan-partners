@@ -35,9 +35,9 @@
 /* BAGIAN SATU */
 
 #bagian-satu {
-  background-image: url(img/bagian-satu.jpg);
+  background-image: url(img/backgroud-mobile.jpg);
   background-attachment: fixed;
-  background-size: auto;
+  background-size: cover;
   background-position: center;
 }
 
