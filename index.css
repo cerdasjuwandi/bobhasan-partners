@@ -350,26 +350,4 @@
 
   /* ========================= */
   /* ========================= */
-
-  /* BAGIAN LIMA */
-
-  #bagian-lima {
-    background-color: orangered;
-  }
-
-  #bagian-lima h1 {
-    font-family: 'Padauk', sans-serif;
-    font-size: 40px;
-    color: white;
-    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
-    margin-top: 100px;
-  }
-
-  #bagian-lima p {
-    text-transform: capitalize;
-    font-family: 'Padauk', sans-serif;
-    font-size: 21px;
-    color: white;
-    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
-  }
 }
